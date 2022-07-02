@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, Andre here 👋
 
-<!--
-**andrelas1/andrelas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some OSS for the Storybook project as well as a my blog with my own SSG solution.
+- 🌱 I’m currently learning Microservices with NodeJS and Kubernetes.
+- 👯 I’m looking to collaborate on projects related to JS/TS.
+- 💬 Ask me about Programming, drums, football, books or music!
+- 📫 How to reach me: Linkedin or Email is preferrable!
 
-Here are some ideas to get you started:
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andrelas1&show_icons=true&count_private=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect!
+[![Twitter Badge](https://img.shields.io/badge/-andresantos-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/andresantos_09) 
+[![Linkedin Badge](https://img.shields.io/badge/-Andre_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrelas1/) 
+<br />
