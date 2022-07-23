@@ -1,6 +1,6 @@
 ### Hi there, Andre here 👋
 
-- 🔭 I’m currently working on some OSS for the Storybook project as well as a my blog with my own SSG solution.
+- 🔭 I’m currently working on some OSS for the Storybook ESLint Plugin project as well as a my blog with my own SSG solution.
 - 🌱 I’m currently learning Microservices with NodeJS and Kubernetes.
 - 👯 I’m looking to collaborate on projects related to JS/TS.
 - 💬 Ask me about Programming, drums, football, books or music!
