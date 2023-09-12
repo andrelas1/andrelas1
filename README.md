@@ -1,8 +1,8 @@
 ### Hi there, Andre here 👋
 
 - 🔭 I am a software engineer working at Miro and in my free time I like to learn lots of different stuff.
-- 🌱 I’m currently learning Rust and go as well as a bit of NeoVim with Lua.
-- 👯 I’m looking to collaborate on projects related to JS/TS, mentoring or volunteering for a non-profit org project.
+- 🌱 I’m currently learning Rust and Go as well as a bit of NeoVim with Lua.
+- 👯 I’m looking to collaborate on projects, mentoring or volunteering for a non-profit org project.
 - 💬 Ask me about Programming, drums, football, books or music!
 - 📫 How to reach me: Linkedin or Email is preferrable!
 
